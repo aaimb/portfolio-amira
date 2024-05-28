@@ -1,2 +1,0 @@
-# portfolio-amira
-Portfolio
